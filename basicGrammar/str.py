@@ -21,6 +21,10 @@ print(r'javaScript\n111') # javaScript\n111
 # 续行符
 str = 'java'\
 		'Script'
+
+print(str) # javaScript
+
+# 换行符 
 str = """'java'
 		...'Script'"""
-print(str) # javaScript
+print(str) #
